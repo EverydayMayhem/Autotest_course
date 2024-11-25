@@ -6,7 +6,6 @@ class PersonInfo:
 
     def short_name(self):
         """Краткая запись Фамилия И."""
-        # todo Здесь нужно написать код
         shortened_list = self.fi.split()
         shortened_str = self.fi
         shortened = f'{shortened_list[1]} {shortened_str[0]}.'
@@ -14,7 +13,6 @@ class PersonInfo:
 
     def path_deps(self):
         """Путь до подразделения"""
-        # todo Здесь нужно написать код
         deps = self.deps
         full_path = ''
         if len(deps) > 2:
@@ -29,7 +27,6 @@ class PersonInfo:
 
     def new_salary(self):
         """Новая зарплата"""
-        # todo Здесь нужно написать код
         age = self.age
         deps = self.deps
         deps_str = ''

@@ -4,7 +4,6 @@ def josephus_task(num_people, kill_num):
     :param kill_num: номер воина
     :return: номер последнего оставшегося воина
     """
-    # todo Здесь нужно написать код
     # генерируем список
     people_list = [i + 1 for i in range(num_people)]
 

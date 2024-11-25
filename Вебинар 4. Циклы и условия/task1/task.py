@@ -5,7 +5,6 @@ def which_triangle(a, b, c):
     :param c: длина стороны
     :return: тип треугольника
     """
-    # todo Здесь нужно написать код
 
     if a == b == c :
         triangle_type = "Равносторонний"

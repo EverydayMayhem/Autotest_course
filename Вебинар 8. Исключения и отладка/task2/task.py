@@ -11,6 +11,5 @@ class Trigon:
         if (args[0] > args[1] + args[2]) or (args[1] > args[0] + args[2]) or (args[2] > args[1] + args[0]):
             raise Exception('Не треугольник')
 
-        # todo Здесь нужно написать код
 
 

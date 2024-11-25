@@ -3,7 +3,6 @@ def multiplication_chain(num):
     :param num: положительное число
     :return: количество перемножений
     """
-    # todo Здесь нужно написать код
     num_str = str(num)
     num_array = []
     # генерируем список из цифр входного числа

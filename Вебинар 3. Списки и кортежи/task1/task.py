@@ -3,7 +3,6 @@ def modification(lst):
     :param lst: список
     :return: преобразованный список
     """
-    # todo Здесь нужно написать код
     last = lst[-1]
     first = lst[0]
     lst[0] = last

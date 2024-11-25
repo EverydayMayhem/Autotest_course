@@ -3,7 +3,6 @@ def create_phone_number(num_tuple):
     :param num_tuple: кортеж из цифр
     :return: строку в виде номера телефона
     """
-    # todo Здесь нужно написать код
     # приведем кортеж к строке
     str_index = str(num_tuple)
 

@@ -3,7 +3,6 @@ def treatment_sum(our_tuple):
     :param our_tuple: кортеж
     :return: сумму элементов кортежа
     """
-    # todo Здесь нужно написать код
     tuple_sum = 0
     exception1 = 'Нельзя сложить эти данные'
     if len(our_tuple) == 2:

@@ -10,5 +10,4 @@ def global_changes():
     global string
     number = 5
     string = 'Hello, dear friend'
-    # todo Здесь нужно написать код
     return number, string

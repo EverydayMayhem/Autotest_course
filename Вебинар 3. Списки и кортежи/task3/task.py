@@ -3,6 +3,5 @@ def even_sum(lst):
     :param lst: список из чисел
     :return: сумму элементов с четными индексами
     """
-    # todo Здесь нужно написать код
     lst = lst[::2]
     return sum(lst)

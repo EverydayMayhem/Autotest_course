@@ -3,7 +3,6 @@ def test_file_path(file_path):
     :param file_path: абсолютный путь до файла
     :return: название файла без расширения, названия диска и корневую папку
     """
-    # todo Здесь нужно написать код
     index = (file_path.split("\\"))[-1].rfind(".")
     file_name = (file_path.split("\\"))[-1][:index]
     disk_name = (file_path.split("\\"))[0].strip(":")

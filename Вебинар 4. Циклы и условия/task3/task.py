@@ -3,7 +3,6 @@ def sum_digits(num):
     :param num: число
     :return: сумма цифр числа
     """
-    # todo Здесь нужно написать код
     summ = 0
     num_str = str(num)
     for i in range(len(num_str)):

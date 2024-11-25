@@ -4,7 +4,6 @@ def sum_and_multiplication(a, b):
     :param b: второе число
     :return: сумму и произведение
     """
-    # todo Здесь нужно написать код
     # через ф-строки
     a_b_sum = f"{a} + {b} = {a+b}"
     a_b_multi = f"{a}*{b} = {a*b}"
