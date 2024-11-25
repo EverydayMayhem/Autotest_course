@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: ZWpVpQgqCIeJBZO98VcmpiKH7heQ50xu3n9kK+f8gNl0Wz1Irkjdi+7Ef0oRjEKqu38X8/mJ4uGsXgLV6hm6uYzMLTRITinOJi8ASjAqKuYTo4I7r2e7/F+ALI4MCCHp4dvW4CVrRwQ3bO7vef/JnW2H2UUUEixKMNoqJf3l+yd7nNy85PumkhpCyjejhTliuEhi2DjBCvXUvWuRu325mBS0h08HvrCFZO67zj2sF8JkQCWK8IRmKZLLBYjhmxliPQnHMS/G2PWTIF/sHNthBSRty/DQu0HMiTmgG2tFtd0=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4ejgqV7OYPV5PHOI6fZ42MurUVQlYso/sa0ABJFSfMx8aXgMXffcxlXiAh6Q1FYj97pX/b2RaoUBWH7+lRONY62oUl0SfeWEwBEK5KcKWzJz1I0tZ8AhVDeU1UIA1Ly9Fv+VY5/sC3frZxxIQ3fFsMQpl9L4hxNIJHg7JVSZbNRngDm8tE58+wjijf54+sOX8Bbe45F2fPTDGNpyjM2xBya2eA2kxeyDSzcbBAOtEGQD+QO/ILwAmBT7jMWd4UTUjuOgdlltvdC1XH7xz8dz5xpSJ6ix/i67tzlllkJ2RfS2XLpAxiRZr3iZ776e2SVrtWnuOIei8cH8BWwZN3PRWVdntDGfFkf5drr1u1+Nr0i3xMvvdo4LxuOjgw6NHxFKUw2jFrg+u15L1U0W1bgk38GX1BB3qhNT9/PTjNOmYqvUhhkVtSCZ2Fvz+3GTpN0aeLVCVlr0ue4UKCsHM/ukGqecVyAOcd4hppEslW+WHnSlgSeDZIcDRgRz3jcs+8Wy+gDC9TyjOq4NpdHiLkC0lS71ZB1MHxiVGRZZKtEtOJCxRbUQZBvTX8znYcsSBhN6zdUA5KxiBm+q1/FYewrMj6quQ6IfSlFUzOoecial9ScmhKZHW3+l1a3a0TgWWBZKNnojb1gYRF8aw0EOQY1RBKdxU94FBcrxfEpBBEnNQLOgmsff8rEvjB4XrO8556DpyUhuAObZmyrP5+DhiWBUSk8S7LDnh/rTezYqzD06AfBmIEi/YnInCgJ0iM9YFHOaR4hZRAX+dhAELLTaVjEpAQ6WAobSObIQk727B4e0AhYu7b9Xx0BjGEghhxhL2ssnsvXTpTXUGBb14LKu/cTqUMzSVmA298IxdQvZfo3Eqf48nxj7gQZ2dBCX/tZG8ZE+NZo/uofmCrN2oQyi8/hsDcd+Ew+xgchLy1PI8V880m/9eOLzibpmYT+kHmm99HASVeqI7XnQbK4Jgxi2y90Rn9TiA5qa3Sqx/v8YAQq8qhKhakX7DsHFdj7Cz5upKMjNUYkwENgLmDp5Ituzqeb49rIxVihUax41eSsWNpAotwGN/UvyL5pyoj/gp1WrcpESMKKBINvzXH9a8Ss8DGcIM8DkqovFIRyfCe2WrYy8Pkqig==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 14 Nov 2024 14:02:10 UTC"
+record: -1

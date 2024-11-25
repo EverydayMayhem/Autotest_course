@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: 0y9e6fNOwWHGSHaSmjoock5Hwl6qdWmmQ8OiRbHut7V/8rM7t4Jok2q2ZqTdzOGIihSDlVGJeiWmj1phTOdFoGIpzbEtOAhRvgcGnfot1mV8kUZ6Hl4EdxbvFJe0xZU/TDU4WxpDAwnjfUk7lnX8vDLKYy1qS0EO4uFnrk5LQ7k5p4HiQYib749pXCdv9FVKpbAj4+6M1p0GnqQv33+oi+WGH+xCDj9093E6xtR6aV5ei+blKEyEe1PsAsDCQCtMTDip/zM+epBD+8iHkF/ztCU3ZwEv5caC4uZM2k1BLCWC9yEnM8LZDCy068j+rSUD/s20kghwZk9kLNFqQbyJaaEzD+oE7PjkgZkZ13hwcLTR1/rzoCrIoiBHaHbheAe9gkAMFUuBEoN3KyPB6sNecwtXIBH33EeUi0sGg4wO9P9JcRR51JfMQxdFNt9H3plvagOxEBd1Y6OhQ9gfOtFRwVGhYXwboVySWPBn1GSujB5A29+VERBDiO+bdIzEaUaxv9Y91lsa7iMmHNODo/rrC+cCsm5jH/2NkBJf8rc/hDI=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4czuP/d/sVOdM2Xo6KVo4iNu+TOPWTGCevrQCGRBOWRwvsudzaqHm4cJJaMH5RtQK0ufph9DWEqfnRLE0u4T8ztzPjOKosuMiteKtixhdI2PRAsfIka/ZTrP7r9aQ2TS9i0W0xGYlnxFxE4B7E4CZuVAr4rwNFTuHBHDIeNU8Vgu0F8H7pfqIvMy6FkogJFwOBGBTwHHffDytK1Iab6LUN0u16k0PisAcZFuNEnlrid0dbq2MHBgWwjDhRac7n+ChVAjEYXLLAZAR8kHcNK5aZOv+6+UrA3cdy4z+JZsFrQousI/3v+pg8ghpnlZMN15g2o2aAhl/K5ZpOpLHJ2M9gmTP8d+3s9HqPF9Ek3mKIzxxNZrEUzaYeUkigwStXh+j/9FBU6RSe/Sd1vb07arMbd5tV8of5Q1VZsyUkLvdIa2dwYAwQ4ow1QTvY1eFEQxGoakvaiqFsm8uZ/m/GLT8uqMsZTuXOBqcX/2p/5OdWcJ6iHU7b4IiIldbDyZ1KoR8/P/6ZaIsYIDa4UNV30hDNJbZcY6XrxL8PBz2ITRlPPaiskQPzOEtz2sbn3gUaHUrIMXQZBWRuXZ08GGZCwMdJd2VaPHZ22vZFTqf+3uDiSL+Glk11Jo4TAzuOaxSS0ANU6WTsC8apergr7xSz7OY9w477ythPJpOT+TlKowC6pnbPTlhF3cdbw4BwmuFzR1vqCFGwYCxNBSAoG15ZD4lt++ntU3booOuHmcHNHIU2LRJF8QOQQbuHrrIGPI5BzsCCdSyH57rBL7Zxby4iqIVteMFVCNwLkgOPqeIMxeCN7thHUrAdOduoHTnH6ksXmNYNJCkGszVtvYh6XLYMuskSRAJDuIB+V/4XLTAKHIO36ykeAy98w7L24w7UJv/+I33s+4/5xwA5otzrTADg1nEzXkinJnn1nbEITzFtfFE8u/w==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 30 Oct 2024 08:45:47 UTC"
+record: -1

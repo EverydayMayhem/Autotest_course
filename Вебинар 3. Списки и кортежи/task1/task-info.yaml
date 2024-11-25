@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: txZkxytcKkseLZn/2h4OEsjKUdf5wl279zQHdGt3VGJIyZZ41QNle4BEqdZmIGwFlodyMzfoMqIVs5BvTSbFrZTUX9ivoMA+dIAhkh+udWMWEd+xO3a2pc18nbv/RFSjLODIWtVcX+plDeknAASIAGpQGAm00yfDuuWX5M1UwY1befaAXlEOGIepf+x6T2XpigWSCgOowQBMHJRWY1nB6Ag1qrJVXUxsfTqlZHZ3gCixuGS8II70MDhduiBqbtTypsArgCEBje3voDEnHlwS7T67VBRP1K/pMbsvCH8L+unKWS7bB9rDJzhYY2JsMTpG
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4f/stlSWhH1V0kVCaTVtgEQb6a+v4mbCbekb9SbwzySIjul4yl+VpHvhPB6e/An1YWU83hzwl4SeOEnJL06oQ5cV2NGPUzFzHOCltfDivwmzVFthl5uOqcx13sPxrXdnXkLNAEVpgsbjbmQFDnNhYyFOHZSehfsB+E1oZ5vgrHcGIwYcVeeas7a4Trshq/+VYNnhmKDZn5KDluMTfaQ8uOUY10RFOT18jw7/BaBr91Win7IMHg4dfcYrwJNqR+EN3ktu7djE4F8xrDmLJJJDCLvC/jqnnjgQwQMpZsCPS84lx8DCCrefTsbV3XeR/VRRAQ+kNQ8KbL/5mUs3iBmF1OP5oj+5LrAWLuKP3EkiHrB6IfZfWcXhv3+G5ve+7GPwRQSneyQh6ZOUcuD2/5Y6iHDr+gn9mn8hfk3UQPU/8XiJ5PrTTeLRpsimsglIRlBdjp0SCksOLCZz/CBWb1yGj7HnQLen1yNZjz3/Sw17plLy5BMIWr6vDB7gePkMywe9/O3BDk82FTNhKy5b/EfqFgiG0DmpxrD9wYivyAHroRSCahCbl88eJaV5LLQLtCadqjD/DBA+Jm0HvvzdjUwwFAnCB/K5jpehjbEJmFTN9V8Lw6VdW7Cl0yy/rmSG7RbW8YOxhn/9AlRjlhzUbUvefr/
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sat, 02 Nov 2024 20:30:15 UTC"
+record: -1

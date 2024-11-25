@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: r3BC55AQeLlivZxd3FX46ddZ+f4T8L7SUKkBrBI6VGUgMJpuQLQpGr7NEiKzqrVEPnWZvisZgZGP5BCClcNAq7m3dmHCk6HM8EcFBa6qwZ8z4QWuk2LbfRHjdGWotqVOYsdE3h55bfb0XRtZiJF1lZi1fp0lU6n1cICAzWK/jqw6GiRkTJ4CUILbk2zeTCaTpr02SBeynH+BrPcEdw+0E6iS8KCQcsLvt+m3DZv2Wydpdx6NlKEG/3IDlhaIAP2z3cFurjNY5In7UKjkEyFDO+ZTfB4dnS2n8W6tXUVohNE=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdTABpAYFz/OYm9rJhukqA22rUU4Z+jCHwA477cITQpwI9Y5TqwkzOO2YbnayHgWiOrxvQFIj+vXUIdvqIa5EJZm1mR2+Go5Pk46tp855WgDG3zRIB66NrHY8lDDZCd98PJfgfqBrxWbb9RAq/Ol/kfrQk9VTPDODYIbUpgo7kUl0CoJwUZFgWXyJwwWw4U4Nu0uTkeA2ZgMWgHycc33Z8gRrCddVBz3+J0TjYCaas6iqXpWwwVWs3ARDvaAWWHa0UJ9R9PkhR8+5Qqrw5o5pRgvwp6fREiU+dZYfAdE9vnDrPqs1zLJErdyuE4t38m6HgXdjLGVueTX7NlNec7dS0GeGOWjU6l47CIcDJvb6v3NAo1GTURzqul7Mz/LCtcsS8EUYxUjV+/1Wg7C9XDXIycUROh/SbvO9czF+JgussDsUmR2iCWPlPZRhkve4ZSBkwxUBnPNIUseeDHNG1+lU/5aEc3bOLJdffqhq1qjucZWnrvJwi/rHpcxzrm+9okj8is1pr27+DTB3h70sAcWOvINaOsoYYrOPa1jWdYLNxf44XXKyg0d/3Bqz6cndzuB+xWhNT1X+kgM7nr3KXjUbz3/fyGKN4KoXTGF/HHYD0DDqXKYsk4TvV2JM4cGxHgs3lHVgecdl+n2BiF2b7OrxONfKprUnL9FXqXzDzP1x8qmdGvsNvXYA9D5CioWPILMzht7AOhphyFlgtIpkuVT8ebf9bvmeNWhx9fMiQNLHHUWq9v5u+S/5nI3ndLSFstYVAXscx6vcunWXxV40ZeQoe9Mp3TGh/sp4x2u4Dr1QRKob+xwtPfoZ/FyGYkBb0mpR4dAWwew3qlZ83DHVuCQljOcBMVNQ/cQum+1aKUvADr92fhGHqc0Z7V5NjPuqYXuncxcvOx1BZxApqv4zGqt2vifoextqSTQv2IVqn9AJIp8iDbJCfrhmqQhjLXLlJ3j5WuVt7El6ZrqfjBS8uh+NmmqCWQ/uqiUWmX0OsHOoGJoLFh3u9OyS0AtUR/6bmZJlPp4dkC6VXRrrp/gjcPp7vwFUm4x3lfIwcQKZEuw58opEgHz6ysNGs4ILEwh0QgtwsknkxGOy8XTK1ohOtpJwoa+KQGM717L3GndC19/h5pAI8KhgTAd/D15c1QjctoVrwjZICvWJMhxd44g+cGknd6JlO/LIBgQ4j3hV0L/E3bCfpNLfG4AfgQ/4q8QS0wTmCYB5OR3V2oz0HMIwgjb639cMHEIbfCfFmST3v57NXtoin2o59ZUm0Dmk+4ANEomHSXchrPWFNjv2XSlSp9cLa6o=
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Fri, 15 Nov 2024 16:10:49 UTC"
+record: -1

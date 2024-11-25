@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: Ezj7v63nbd1YfgHp0gdp6raQU3SqLwJbYopmfg9tDVx5hBd5py/HjdrULHw43gtmh/ipaUZizKd3d06ikjietci/Mj+3lq9/qpRGfCS62kqlaBYvV32l5RqriO3/dKs67f6b/Rk0OQwwGSBRvlO27CmoMOFiMdE5eVDA3FM9VC2pNosA4FGH05nbcAh2su8AIRYB2SA0TEBx5yBCcq39mNfYw0Qkjc5Dwe63sSAY1FYZ4C0CEUcEsrwls02cdC38Gnti1JhYe9wx9oBb/VMyLg+Wo2HqFdtxWlvvIY5jLQM5Vwl5+8TGZHDhHW/beJW5IfzdMS+ZPUM945NfO8w3lZKfGh+nsvtHhR/4NbU+nhnR4pfapTKd8dOB1scpz+nKUPzEyzY7bPxJsx8Kv9SnuCX36avUcw2DeXxTYXTcnkMPiAaSREuaOfdHVcKkcD/2KOr4uDb7Qfo+dMy/n25eFQ==
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4eLrgQ2jqhPZGr06T4S/mGZpvDHrQTnp4XzKXCvHzygt38N2YKP7ih2De1N5osoysXPwClGZjVkTZdUYXogQNEUlNEIKQi3T1bf9i4pmNAGT2MD1OVx26pa2beifBc6ncnjlxlmJ25JMY+2pSwHiMwyuoZiQLTYiGCWtqpxU/yr3z1S4YpmgHuJNTjvRcJ3ZOlbv8lfwq3L+SORLDn9JDlJCFT9ak9v4OvgODmXumK4GaTN6Bfn6zAM8ly/ABkUb5NmM6h7d5co1fL5Pb3Ge/JyNo33qIHXJBCc0MJ2/U+UgTDoZmhM2VdbLupyJehNLaRcK2LfamFHYMCu9ND9Hee18MBbrAmApBouUvHWY0+/HOEfO19x9+1+fvOaI6S+DgMzWN1bFYiOh4Aq8dGY6XNsoOZ0YRwy+xYXvv0CbUQv6YYQx4NZ7ira1SdDiYoogXv8vuBRt59MpY8Igg2OigTdaPznG7mFBrAENXJQjgizBjDbOIbWdKDwvwE7o/QO4ewESf0cC+ER1CUVYAhYrVJM0eCFaO8foAZqsycluPOCHU2gCCaMO4h8SPVr2FVEqFVWcL6oIhbd4CjeP9iEiQU+jV/o/wXgW4uYnZH2anXwE/oXrF74pPXRUm344LH6WPj+nvGH75MVNWAmfercX7JljZEt3e0pPGshZlzL1P40K+eJnUO4P0wna52MdrtfnX4N4j2fbRmxoJ9RXHSW0oYV193JcuDR3Ozj6UIInzbT1pKcKZ88xu9MO8FsVO1A7J+Ezky38EzXTqI4ScXylpq0VnFU4PQgY40VSGyM4BJI0beLB+lyqdAoChctgJYwcf0lDpCK5c2WU9cadHmN8DwkmCzdK14rZc1xjmpUxtGfC1VicWq4JYQk1OAIfvdKp7gfiPenmXmAJaQ+KipBrSAPnpg+E7KUzms8TUJHyOmdcR2mTeXQNjh4CWGgNMslWw2070JX4Xt9DhJe3Qp67Ct+PQyj8rf+IVNfDnxka3nTW+9X8j6snmGrOwUtl73u9/ouF2PIdjtUSkTQcUrcNpvI/Xx9NDNTsJJSm+V16W1W5JdQ/q1Zb6sdIrtWEcGudYhhnVAqHLd+z5NraWJgvAdwQT5ixC0sRh0HTpd+YuihlAAM8vvq0ucaVwoDjrk3NP444z6DQNe6VoIkT+EYHuRieOsD3S6WLyggHUYnsuPu+UzO4oGwIBdYqhjFmIlTayn3g51LYGBLcT/y2lr93mAIt/XMCtqxmVvzdH18O+P130ZCJMhfztPUocJy58XxJZELGn32x3HJ8iM5/kjFtaW1
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 29 Oct 2024 19:49:59 UTC"
+record: -1

@@ -1,0 +1,37 @@
+type: theory
+files:
+  - name: main.py
+    visible: true
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: test_file/img.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test_file/img_1.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test_file/img_2.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test_file/img_3.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test_file/img_4.png
+    visible: false
+    is_binary: true
+    learner_created: false
+  - name: test_file/img_5.png
+    visible: false
+    is_binary: true
+    learner_created: false
+status: Solved
+record: -1
+post_submission_on_open: true

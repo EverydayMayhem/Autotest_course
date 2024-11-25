@@ -1,0 +1,23 @@
+type: edu
+files:
+  - name: task.py
+    visible: true
+    encrypted_text: Zi5hboDgJLfc5b+FTx61qnvdkWrTvVx3QajzYvFHu+P05pDust4zjqsIAJJk0t1dn35TbqrJFk7nURsgLHjmGashR/2V0jiyTz9F+hCbTt5tyFcTFy4afuio9vu0zpUMUwEqBmAOylFm97FLK5fliId7LP062D9yToSP1QIdWZbzHOba9kUP5XJ9FLvTGjEDYskXKkF/Bu91ny9HWXMV4csAsM8EGv3GQAyrp6nVnFZi28QyweQPz3VYcVT+tgqZTcnF/XeoiIIy0sziTy+KBWQcjdRAuajD5IfVn8D5jAZ/I/uZQcwTzweEHjJ6Rg/4ag8tu4qVgmurs3zGZYZnNfeK6Cljd3lBX0Fku2zZRAI=
+    learner_created: false
+  - name: tests/test_task.py
+    visible: false
+    encrypted_text: XIlL2u+4gqNTqO7La77YdQTjn1YHMq4gonGgZk0sm4fELjABRnBZuhbknDctRsGfw9yjhIv79k3R/vo8ahSHpLF05+z4juYvygFt+gEwqxaluI1Ub3m4crmk92W8YVbinrID8GKEYkSiF6Cc7HDH3tBqchYIGiq3N1OVIwz0EKiHDK4vmd8CxVAUhJ29llWf8fIdGCbcjM/xpN7f2FfZ3LFTtGFewbq0k+yWAM/AtpO1KOtdD5D96HQZ47JcGzfOwVPBkUKEyi/n8RtH+8f+P2pK7Rh9uwZsGUTK2DDhMMpHitdntXEfF+/pTDYwRi1rwvc+ZnU5kQICBLshTnTeeFO1aa1T3bGMpBOsfMZKNCStnkGw6NSmLb5F+4eLdbeQaVNDXoCn9dt2nJ/Y7BpLEhv2xuj28rdJo0TLWzrBI4Y86cQaJ1NtU//UQlnQ/QvU0f5Gxe+hQJ3Sn6gGXS5J4Lq48V855YgsPnOfrJYLPInP6a+6DdgBkL0E6IboIdRV4ml9rna4Y/Yy9vGVHhfauLlA9ButZf+uSxCQrqXmF7RROkd5NEN7kTDpYXYzrzZfc5pPWe1KAdLufW1AaATDrBABzV+4gz3CsHZbezBH3G2oGUzhF7LSYZoERDzL/pQEBDhptwOu81Pig8vpexrFZEsICnnvF8Z8PPJ6l78WqgSrib4QkM+exzPBb6NmXVDAXpgC2gnxW+YJ12/EyS72at4qZlZoFc4c4dQ0nungzMWiKa6cisTZtSxBmrTcT/SMvdgRc2hq1IqMkNjrZ1bpe9kQOb4BfsA0Xj3lN4ekPc1EE5lERyOCnTyCRn22FXRtyM/VyRpf0YpFiUXngg0covrT8+AID6aWKsFOfq8+MZ6pUSdFJmbdOIWSIEJ/Uj1f
+    learner_created: false
+  - name: __init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+  - name: tests/__init__.py
+    visible: false
+    encrypted_text: BPrPxsoPO0ddRfXxWyDgbA==
+    learner_created: false
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Thu, 14 Nov 2024 16:40:32 UTC"
+record: -1
